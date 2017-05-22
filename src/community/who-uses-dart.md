@@ -218,4 +218,8 @@ Gifts and invite friends. Build with Angular 2 Dart (client) and Shelf (server).
 
 [Grupo Aluman](http://www.grupoaluman.com)
  : Industrial panel computers to control our entire production chain. Client apps built with AngularDart.
+ 
+[Share.Place](http://www.share.place)
+ : Smart & real time collaboration tool : to make your discussions focused around your files, always be up to date with the latest file version, and manage your files visibility in a smart manner. Client apps built with AngularDart.
+ 
 </div>
